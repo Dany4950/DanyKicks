@@ -15,6 +15,7 @@ class Ecommerce extends StatelessWidget {
         appBar: AppBar(
           title: Text("DanyKicks"),
           backgroundColor: Colors.grey[400],
+          leading: Icon(Icons.abc),
 
         ),
       ),
